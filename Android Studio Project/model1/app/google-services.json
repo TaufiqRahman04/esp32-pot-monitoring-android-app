@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "905776265921",
+    "firebase_url": "https://modul-1-80c16-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "modul-1-80c16",
+    "storage_bucket": "modul-1-80c16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905776265921:android:097e397109351f9355b240",
+        "android_client_info": {
+          "package_name": "com.example.model1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtizg-bnqsstt_sHOLXEc_TKXgFr59n6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905776265921:android:8f1267a379342b9e55b240",
+        "android_client_info": {
+          "package_name": "com.telkom22.mod1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtizg-bnqsstt_sHOLXEc_TKXgFr59n6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
